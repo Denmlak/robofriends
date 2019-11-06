@@ -1,7 +1,7 @@
 Robofriends is basic and nice react app i developed basic on Udemy course by Andrei Neagoie.
 Full responsive in different screen sizes.
 
-<h3>Technologies Used:</h3>
+<h4>Technologies Used:</h4>
 <ul>
 <li>Html5</li>
 <li>CSS3</li>
